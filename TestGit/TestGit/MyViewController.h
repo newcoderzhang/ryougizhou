@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MyViewController.h
 //  TestGit
 //
 //  Created by zhoutong on 15/5/7.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MyViewController : UIViewController
 
 @end
-
